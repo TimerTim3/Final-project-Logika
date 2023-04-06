@@ -1,0 +1,8 @@
+
+.dota-card {
+  background-image: linear-gradient(red, yellow);
+}
+
+.csgo-card {
+  background-image: linear-gradient(rgb(103, 179, 250), rgb(180, 229, 255));
+}
