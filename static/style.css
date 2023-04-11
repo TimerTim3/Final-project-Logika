@@ -16,5 +16,10 @@
 }
 
 .Qalorant-card {
-  background-image: linear-gradient(brown)
+  background-image: linear-gradient(orange,white)
+}
+
+.Balorant-card {
+  background-image: linear-gradient(black,white
+  )
 }
