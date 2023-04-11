@@ -6,3 +6,15 @@
 .csgo-card {
   background-image: linear-gradient(rgb(103, 179, 250), rgb(180, 229, 255));
 }
+
+.Valorant-card {
+  background-image: linear-gradient(red,grey)
+}
+
+.Brawl-card {
+  background-image: linear-gradient(blue,aqua)
+}
+
+.Qalorant-card {
+  background-image: linear-gradient(brown)
+}
